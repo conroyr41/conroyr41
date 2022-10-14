@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Conroy Ricketts</h1>
 <h3 align="center">A passionate mobile developer from Orlando, Florida.</h3>
 
-- 🔭 I’m currently working on [The Admin Tool for Knight Hacks 2022 at UCF](https://github.com/KnightHacks/admin-tool-frontend-2022) and [A Health Tracking App](https://github.com/AkeenL1/COP4331-Health-Tracking-App).
+- 🔭 I’m currently working on [The Admin Tool for Knight Hacks 2022 at UCF](https://github.com/KnightHacks/admin-tool-frontend-2022) and a [Health Tracking App](https://github.com/AkeenL1/COP4331-Health-Tracking-App).
 
 - 📫 How to reach me: **conroyr41@gmail.com**.
 
