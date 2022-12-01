@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the [Admin Tool for Knight Hacks 2022 at UCF](https://github.com/KnightHacks/admin-tool-frontend-2022) and a [Health Tracking App](https://github.com/AkeenL1/COP4331-Health-Tracking-App).
 
-- 📫 How to reach me: **conroyr41@gmail.com**.
+- 📫 How to reach me: **conroy.ricketts@tutanota.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
